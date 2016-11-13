@@ -4,7 +4,7 @@ PLEASE make sure your RTL USB dongle is not pluged in until your pi reboots at t
 
 Please following these instructions:-
 
-git clone git://github.com/houser747/dump1090_buildscript.git
+git clone git://github.com/Matanuska/dump1090_buildscript.git
 
 sudo chmod +x ./dump1090_buildscript/build1090.sh
 
